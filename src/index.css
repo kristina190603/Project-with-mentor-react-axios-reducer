@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+}
+.admin-inputs{
+  display: flex;
+  width: 400px;
+  flex-wrap: wrap;
+  margin-left: 45%;
+  margin-top: 5%;
+}
+
+.Product{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
